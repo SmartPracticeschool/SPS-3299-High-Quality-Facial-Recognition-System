@@ -1,0 +1,143 @@
+Mahankali Surya Te}
+
+SrloT Developer
+
+Profile
+loT Developer with over 2 years of extensive experience on loT Application
+
+development end to end .Hand on experience and solid knowledge on boards
+like Raspberry Pi 3 B+,ESP32,ESP8266,Arduino Mega 2560.
+
+Ample amount of knowledge on communication protocols like MQTT,HTTP,
+HTTPS and Web Sockets. Expertise in cloud based IOT solutions.
+
+Strong Knowledge on Communications like LoRa,RF Communication,WIFi,ZigBee ,Bluetooth, GPRS etc.
+
+Rich knowledge on IBM cloud which include IBM Watson loT platform, Nodered, IBM Cognitive Services, Artificial Intelligence Services,Building API's,
+Developed Chat Bots using IBM Watson Assistant and built various applications
+
+from those services.
+
+Good Knowledge on building Machine Learning Models and deploying them in
+Cloud providers like IBM Cloud. Along with IBM cloud had Extensive knowledge
+on AWS (Lambda,AWS loT,AP! gateway,DynamoDB,SN5 Service,LAM) .
+
+Strong Experience in software development with python using Anaconda.
+
+Hands on experience in Computer Vision ,Object Detection and Recognition
+
+using opencv and developed various projects on Raspberry pi using opencv.
+
+Good analytical ,problem solving,debugging,documentation,and
+
+communication skills.
+
+Employment History
+
+Sr.loT Developer at SMARTBRIDGE EDUCATIONAL SERVICES PRIVATE
+LIMITED, India
+
+April 2017 — Present
+
+loT Intern at SMARTBRIDGE EDUCATIONAL SERVICES PRIVATE LIMITED,
+Hyderabad
+
+November 2016 -— March 2017
+
+f Technical Expertise
+
+* Programming Languages-Python,C,Embedded C,Java
+
+* 05-Windows,Linux,Mac
+
+* Communication technologies: Bluetooth, Wi-Fi, Zigbee,LoRa,RF.
+
+* Communication Protocols: HTTP, MOTT.
+
+* Software: Arduino IDE, Atom, MIT App InventorAnaconda,Eclipse IDE,
+
+* Cloud Platforms: Thingspeak,IBM cloud, AWS cloud.
+
+* Notification Servers: IFTTT, Pushingbox Notifier, Ms¢91.
+
+* Development boards: Arduino Uno Arduino Nano, Arduino Mega, Node Mcu
+(ESP8266),Raspberry Pi 3 B+,ESp32,Raspberry Pi Zero, Pycom.
+
+* Applications: MIT app inventor,HTML
+
+Details
+
+Ayodya Nagar Colony,
+Mehdipatnam ,Hyderabad,
+Hyderabad, 500028, India,
+8686519993
+
+mahankalisuryate;@gmail.com
+
+Date / Place of birth
+11-May-1994
+
+Khammam
+
+Nationality
+
+Indian
+
+Links
+
+www. linkedin.com/in/mahankali
+
+-surya-te|
+
+ 
+
+ 
+
+Embedded Cf Professional Experience
+Smart Home Gateway
+
+Device - Gateway - Cloud - Application (D-G-C-A) deployment model.The
+devices (D1-D4) will interact with gateway over different communication
+technologies, (BLE, WI-Fi, Zigbee and RF).The gateway will have the capability to
+consolidate different communication technologies.All the devices can be
+monitored & controlled from Web/Mobile app.The platform will provide both
+HTTP & MQTT end points for gateway & application interface.
+
+Medikit
+
+An loT healthcare system is developed for patients, hospitals and care centers
+that regularly supervise the health condition and checks whether the patient
+has taken the prescribed medicine. The information available on the Cloud can
+be supervised by the doctor by using a Mobile application. The mobile
+application also supports scheduling of medicines as per doctor’s prescription
+
+in the medical box.
+
+@ Education
+Master's Degree, Sreenidi Institute of Science &Technology, Hyderabad
+
+~, ny 1 c 7 n a a
+F 1 — #
+FD = t
+
+FA}
+
+Secured 9.0 CGPA in the field og Digital Systems & Computer Electronics
+
+Bachelors's Degree, CMR college of Engineering & Technology,
+Hyderabad
+2011 - 2015
+
+Secured 70% as aggregate in the branch of Electronics & Communication
+
+Board of Intermediate, NRI Junior College, Vijayawada
+
+4nNG " Qj a 1
+A a he
+
+Secured 90% in the stream of MPC
+
+Matriculation, Bps&Jc, Bhadrachalam
+
+— See
+1997 -— 2009
