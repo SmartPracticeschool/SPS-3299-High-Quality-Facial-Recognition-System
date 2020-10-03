@@ -1,4 +1,4 @@
-High Quality Facial Recognition System
+High-Quality-Facial-Recognition-System
 
 Project Idea : Facial recognition is the process of identifying or verifying the identity of a person using 
 their face. It captures, analyzes, and compares patterns based on the person's facial details. High-Quality 
