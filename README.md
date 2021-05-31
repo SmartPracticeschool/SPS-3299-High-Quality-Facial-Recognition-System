@@ -8,3 +8,16 @@ detection process is an essential step as it detects and locates human faces in 
 Solution: The objective of this project is to build a Facial Recognization application that can detect faces
 and recognize them. We are going to build this using dlib which uses 128 point face detectors which outputs 
 these 128 points fro all the face and compares them with existing faces.
+
+
+Required Installations (run these commands in anaconda prompt):
+
+OpenCV --pip install opencv-contrib-python
+
+Imutils --pip install imutils
+
+Cmake --pip install cmake
+
+Dlib --pip install dlib
+
+Face-recognition -–pip install face-recognition
